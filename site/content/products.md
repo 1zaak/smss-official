@@ -3,7 +3,7 @@ title: SMSS
 type: products
 page: /products.html
 image: /img/smss-banner.jpg
-heading: What we offer
+heading: asdasdsa
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
